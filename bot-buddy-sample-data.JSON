@@ -1,24 +1,32 @@
 {
     "data": [
-        {
-            "text": "My computer is running very slow",
-            "labels": ["computer issue"],
-            "response": "There could be many reasons why your computer is running slow. You can try closing any unnecessary programs and running a virus scan to see if that helps."
-        },
-        {
-            "text": "My printer isn't working",
-            "labels": ["printer issue"],
-            "response": "There could be many reasons why your printer isn't working. You can try checking the connections, restarting the printer, or reinstalling the drivers to see if that helps."
-        },
-        {
-            "text": "I forgot my password",
-            "labels": ["password issue"],
-            "response": "If you forgot your password, you can try resetting it by clicking on the 'Forgot Password' link on the login page."
-        },
-        {
-            "text": "My internet connection keeps dropping",
-            "labels": ["internet issue"],
-            "response": "There could be many reasons why your internet connection keeps dropping. You can try resetting your router, checking your cables, or contacting your internet service provider to see if they can help."
-        }
+      {
+        "text": "My botmachine is running very slow",
+        "labels": [
+          "botmachine issue"
+        ],
+        "response": "There could be many reasons why your botmachine is running slow. You can try closing any unnecessary programs and running a virus scan to see if that helps."
+      },
+      {
+        "text": "My botprinter isn't working",
+        "labels": [
+          "botprinter issue"
+        ],
+        "response": "There could be many reasons why your botprinter isn't working. You can try checking the connections, restarting the botprinter, or reinstalling the drivers to see if that helps."
+      },
+      {
+        "text": "I forgot my botmachinepassword",
+        "labels": [
+          "botmachinepassword issue"
+        ],
+        "response": "If you forgot your botmachinepassword, you can try resetting it by clicking on the 'Forgot botmachinepassword' link on the login page."
+      },
+      {
+        "text": "My botmachinenet connection keeps dropping",
+        "labels": [
+          "botmachinenet issue"
+        ],
+        "response": "There could be many reasons why your botmachinenet connection keeps dropping. You can try resetting your router, checking your cables, or contacting your botmachinenet service provider to see if they can help."
+      }
     ]
-}
+  }
